@@ -6,6 +6,7 @@
 }
 html {
   font-family: 'Inter', sans-serif;
+  font-weight: 400;
   background-color: #ff9f32;
   color: #fff;
 }
@@ -19,4 +20,14 @@ h1 {
   margin: 0.5em 0;
   text-shadow: 10px 10px 0 #ffcb8f;
   filter: drop-shadow(10px 10px 0 #ff5b32);
+}
+p {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+#mayphoto {
+  width: 50%;
+  display: block;
+  margin: 3rem auto;
 }
